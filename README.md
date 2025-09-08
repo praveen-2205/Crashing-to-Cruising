@@ -7,7 +7,7 @@ Here the AI agent learns to drive in the CarRacing environment using the **Proxi
 This notebook demonstrates how to set up the CarRacing environment, shape rewards, train an agent using PPO, and evaluate its performance.
 
 ---
-## 🎥 Demo GIF
+## 🎥 Demo Video
 
 Here’s how the trained car drives on the race track:
 
