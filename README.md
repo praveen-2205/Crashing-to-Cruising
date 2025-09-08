@@ -53,7 +53,7 @@ PPO is a reinforcement learning algorithm that balances exploration and exploita
 ### Clone this repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/praveen-2205/Crashing-to-Cruising.git
 cd RL_Racing_car
 ```
 
