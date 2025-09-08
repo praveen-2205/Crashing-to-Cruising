@@ -11,7 +11,7 @@ This notebook demonstrates how to set up the CarRacing environment, shape reward
 
 Here’s how the trained car drives on the race track:
 
-![Car Driving Demo](path/to/car_demo.gif)
+![Car Driving Demo](data/racecar.gif)
 
 ---
 
