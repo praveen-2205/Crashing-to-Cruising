@@ -10,17 +10,17 @@ This notebook demonstrates how to set up the CarRacing environment, shape reward
 
 ## 📋 Table of Contents
 
-* [Project Overview](#project-overview)
-* [Environment Setup](#environment-setup)
-* [Algorithm Used](#algorithm-used)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Training & Evaluation](#training--evaluation)
-* [Results](#results)
-* [Demo GIF](#demo-gif)
-* [Dependencies](#dependencies)
-* [Contributing](#contributing)
-* [License](#license)
+- [Project Overview](#project-overview)
+- [Environment Setup](#environment-setup)
+- [Algorithm Used](#algorithm-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Training & Evaluation](#training--evaluation)
+- [Results](#results)
+- [Demo GIF](#demo-gif)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
