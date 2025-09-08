@@ -7,20 +7,11 @@ Here the AI agent learns to drive in the CarRacing environment using the **Proxi
 This notebook demonstrates how to set up the CarRacing environment, shape rewards, train an agent using PPO, and evaluate its performance.
 
 ---
+## 🎥 Demo GIF
 
-## 📋 Table of Contents
+Here’s how the trained car drives on the race track:
 
-- [Project Overview](#project-overview)
-- [Environment Setup](#environment-setup)
-- [Algorithm Used](#algorithm-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Training & Evaluation](#training-evaluation)
-- [Results](#results)
-- [Demo GIF](#demo-gif)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+![Car Driving Demo](path/to/car_demo.gif)
 
 ---
 
@@ -108,16 +99,6 @@ tensorboard --logdir=<your-log-directory>
 * The PPO algorithm provided stable learning and improved driving performance.
 * Reward shaping encouraged smooth steering and efficient driving behavior.
 * Training logs and evaluation plots help analyze agent improvements.
-
----
-
-## 🎥 Demo GIF
-
-Here’s how the trained car drives on the race track:
-
-![Car Driving Demo](path/to/car_demo.gif)
-
-*(Replace `path/to/car_demo.gif` with the actual path to your GIF in the repository.)*
 
 ---
 
